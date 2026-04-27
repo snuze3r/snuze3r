@@ -1,0 +1,43 @@
+
+{
+  "message": "User retrieved successfully",
+  "data": {
+    "residential": {
+      "proxy_username": "r_90b8ac0582",
+      "proxy_password": "c748ed8867",
+      "bandwidth": {
+        "total": 4100000000,
+        "used": 3107690534,
+        "remaining": 992309466
+      }
+    },
+    "mobile": {
+      "proxy_username": "m_90b8ac0582",
+      "proxy_password": "6fb928bbe3",
+      "bandwidth": {
+        "total": 3050000931,
+        "used": 3028292108,
+        "remaining": 21708823
+      }
+    },
+    "datacenter": null,
+    "static-resi": {
+      "proxy_username": "0752568c61",
+      "proxy_password": "565f706de4",
+      "bandwidth": {
+        "total": 0,
+        "used": 0,
+        "remaining": 0
+      }
+    },
+    "private-resi": {
+      "proxy_username": "0752568c61",
+      "proxy_password": "9da30207e9",
+      "bandwidth": {
+        "total": 0,
+        "used": 0,
+        "remaining": 0
+      }
+    }
+  }
+}
