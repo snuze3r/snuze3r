@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new pet dolphin activities
 - 📫 How to reach me please let me know, im still looking for me
 - 😄 Pronouns: himhe 
-- ⚡ Fun fact: durgs are bad if you dont know anyone
+- ⚡ Fun fact: durgs are bad if you dont have the good ones 
 
 <!---
 snuze3r/snuze3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
